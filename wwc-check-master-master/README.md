@@ -1,2 +1,0 @@
-# wwc-check-master
-
