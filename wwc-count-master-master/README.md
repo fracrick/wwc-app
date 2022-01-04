@@ -1,2 +1,0 @@
-# wwc-count-master
-
